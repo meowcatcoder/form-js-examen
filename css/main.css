@@ -1,0 +1,35 @@
+.a {
+	height: 615px;
+    margin: 2%;
+}
+.chat {
+	border: 2px solid skyblue;
+}
+
+.send {
+    width: 145.6px;
+    background
+}
+
+input {
+    height: 34px;
+    width: 78%;
+}
+
+
+button p {
+	text-align: center;
+	padding-top: 1.5%;
+}
+.dropup .btn {
+		width: 104px;
+}
+.panel-info .panel-body h2, p {
+	color: #31708F;
+	margin-top: 0px;
+}
+
+form {
+	    position: relative;
+    top: 435px;
+}
